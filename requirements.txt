@@ -1,0 +1,7 @@
+# Python libraries required:
+seaborn
+requests
+beautifulsoup
+pandas 
+numpy
+matplotlib
